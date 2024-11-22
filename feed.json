@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://starrwulfe.micro.blog/2024/11/18/reading-blueskyactivitypub-three.html",
+				
+				"content_html": "<p>💻️ Reading <a href=\"https://whtwnd.com/boobam.bsky.social/entries/Bluesky%E3%81%8CActivityPub%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F3%E3%81%A4%E3%81%AE%E7%90%86%E7%94%B1\">BlueskyがActivityPubを採用しなかった3つの理由</a> (Three reasons why Bluesky didn&rsquo;t adopt ActivityPub)</p>\n<p>This page discusses why Bluesky chose not to adopt ActivityPub, the open protocol used by Mastodon and others, and opted to make its own, ATProtocol.</p>\n<ul>\n<li>Architectural Differences: ActivityPub&rsquo;s model did not align with Bluesky’s vision for scalability and flexibility.</li>\n<li>User Experience: Integrating with ActivityPub could have limited Bluesky’s control over its features and user experience.</li>\n<li>Technical Challenges: Compatibility with existing ActivityPub networks would require significant adjustments that might compromise Bluesky’s goals.</li>\n</ul>\n<p>AT Proto addresses these by improving:</p>\n<ul>\n<li>Scalability: Designed to handle higher traffic and expand seamlessly.</li>\n<li>Modular Flexibility: Allows customization without being constrained by the limitations of ActivityPub.</li>\n<li>User Data Portability: Focuses on improving data interoperability between platforms.</li>\n</ul>\n<p>🤔 The author equates ATProto to solving for &ldquo;Big Fedi&rdquo; while still maintaining the nimbleness within to handle &ldquo;Small Fedi&rdquo; ideals on a granular scale. This is as opposed to Mastodon&rsquo;s catering to &ldquo;Small Fedi,&rdquo; only. Oh what are these anyway? It&rsquo;s a concept that <a href=\"https://evanp.me/2023/12/26/big-fedi-small-fedi/\">Evan Prodromou (@evan@cosocial.ca) outlined in his blog post here</a> defining two schools of thought regarding social networks. It&rsquo;s highly encouraged to read through that post and perhaps even drop him a line if you&rsquo;re interested in these topics.</p>\n<p>At some point I&rsquo;ll give my thoughts and post them over on the main <a href=\"https://starrwulfe.xyz\">starrwulfe.xyz</a> blog once I unpack them, and also how I&rsquo;m doing this with some  #indieweb secret sauce; stay tuned! 📺️</p>\n",
+				"content_text": "💻️ Reading [BlueskyがActivityPubを採用しなかった3つの理由](https://whtwnd.com/boobam.bsky.social/entries/Bluesky%E3%81%8CActivityPub%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F3%E3%81%A4%E3%81%AE%E7%90%86%E7%94%B1) (Three reasons why Bluesky didn't adopt ActivityPub)\r\n\r\nThis page discusses why Bluesky chose not to adopt ActivityPub, the open protocol used by Mastodon and others, and opted to make its own, ATProtocol.\r\n\r\n* Architectural Differences: ActivityPub's model did not align with Bluesky’s vision for scalability and flexibility.\r\n* User Experience: Integrating with ActivityPub could have limited Bluesky’s control over its features and user experience.\r\n* Technical Challenges: Compatibility with existing ActivityPub networks would require significant adjustments that might compromise Bluesky’s goals.\r\n\r\nAT Proto addresses these by improving:\r\n* Scalability: Designed to handle higher traffic and expand seamlessly.\r\n* Modular Flexibility: Allows customization without being constrained by the limitations of ActivityPub.\r\n* User Data Portability: Focuses on improving data interoperability between platforms.\r\n\r\n🤔 The author equates ATProto to solving for \"Big Fedi\" while still maintaining the nimbleness within to handle \"Small Fedi\" ideals on a granular scale. This is as opposed to Mastodon's catering to \"Small Fedi,\" only. Oh what are these anyway? It's a concept that [Evan Prodromou (@evan@cosocial.ca) outlined in his blog post here](https://evanp.me/2023/12/26/big-fedi-small-fedi/) defining two schools of thought regarding social networks. It's highly encouraged to read through that post and perhaps even drop him a line if you're interested in these topics. \r\n\r\nAt some point I'll give my thoughts and post them over on the main [starrwulfe.xyz](https://starrwulfe.xyz) blog once I unpack them, and also how I'm doing this with some  #indieweb secret sauce; stay tuned! 📺️\n",
+				"date_published": "2024-11-18T21:46:48-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/18/reading-blueskyactivitypub-three.html",
+				"tags": ["🔗 links","📔 read"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/18/working-on-the.html",
+				
+				"content_html": "<p><img src=\"https://abc.starrwulfe.xyz/uploads/2024/hammer-and-wrench-3d.png\" alt=\"hammer-and-wrench-3d emoji\"> Working on the #indieweb #fediverse #bluesky workflow with micro.blog.</p>\n<p><a href=\"https://abc.starrwulfe.xyz/now/\">abc.starrwulfe.xyz/now/</a></p>\n",
+				"content_text": "![hammer-and-wrench-3d emoji](https://abc.starrwulfe.xyz/uploads/2024/hammer-and-wrench-3d.png) Working on the #indieweb #fediverse #bluesky workflow with micro.blog.\r\n\r\n[abc.starrwulfe.xyz/now/](https://abc.starrwulfe.xyz/now/)\n",
+				"date_published": "2024-11-18T20:53:29-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/18/working-on-the.html",
+				"tags": ["⌚ currently"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/17/its-gonna-take.html",
+				
+				"content_html": "<p>⏰\nIt&rsquo;s gonna take me so much time to straighten out my micro.blog stuff. But I&rsquo;m here for it I guess.</p>\n<p><a href=\"https://abc.starrwulfe.xyz/now/\">abc.starrwulfe.xyz/now/</a></p>\n",
+				"content_text": "⏰\r\nIt's gonna take me so much time to straighten out my micro.blog stuff. But I'm here for it I guess.\r\n\r\n[abc.starrwulfe.xyz/now/](https://abc.starrwulfe.xyz/now/)\n",
+				"date_published": "2024-11-17T22:12:46-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/17/its-gonna-take.html",
+				"tags": ["⌚ currently"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/17/delimma-of-the.html",
+				
+				"content_html": "<p>Dilemma of the moment:</p>\n<p>should I keep it <a href=\"https://micro.blog/starrwulfe@abc.starrwulfe.xyz\">@starrwulfe@abc.starrwulfe.xyz</a> or revert to <a href=\"https://micro.blog/starrwulfe@starrwulfe.xyz\">@starrwulfe@starrwulfe.xyz</a> which is dormant now.</p>\n<ul>\n<li>how many people follow <a href=\"https://micro.blog/starrwulfe@abc.starrwulfe.xyz\">@starrwulfe@abc.starrwulfe.xyz</a>? I&rsquo;m using micro.blog so I can&rsquo;t get a follow count.</li>\n<li>I have no idea if &ldquo;moving&rdquo; followers to the new domain is possible like a regular Mastodon account swap would be.</li>\n<li>I kinda wish I could separate the activitypub redirect from my webserver and redirect it to a minimal install of honk or something similar just so I could keep both ActivityPub instances going. Does Cloudflare offer a way to do this?</li>\n<li>Could I do this with <a href=\"http://fed.brid.gy\">Bridgy Fed</a> and the current <a href=\"http://starrwulfe.xyz\">blog</a>? Seems like a question for <a href=\"https://micro.blog/manton@manton.org\">@manton@manton.org</a> and <a href=\"https://micro.blog/snarfed.org@snarfed.org\">@snarfed.org@snarfed.org</a>.</li>\n</ul>\n<p>*heavy thinking intensifies *🤔</p>\n",
+				"content_text": "Dilemma of the moment:\n\nshould I keep it [@starrwulfe@abc.starrwulfe.xyz](https://micro.blog/starrwulfe@abc.starrwulfe.xyz) or revert to [@starrwulfe@starrwulfe.xyz](https://micro.blog/starrwulfe@starrwulfe.xyz) which is dormant now. \n\n- how many people follow [@starrwulfe@abc.starrwulfe.xyz](https://micro.blog/starrwulfe@abc.starrwulfe.xyz)? I'm using micro.blog so I can't get a follow count. \n- I have no idea if \"moving\" followers to the new domain is possible like a regular Mastodon account swap would be.\n- I kinda wish I could separate the activitypub redirect from my webserver and redirect it to a minimal install of honk or something similar just so I could keep both ActivityPub instances going. Does Cloudflare offer a way to do this?\n- Could I do this with [Bridgy Fed](http://fed.brid.gy) and the current [blog](http://starrwulfe.xyz)? Seems like a question for [@manton@manton.org](https://micro.blog/manton@manton.org) and [@snarfed.org@snarfed.org](https://micro.blog/snarfed.org@snarfed.org). \n\n*heavy thinking intensifies *🤔 \n",
+				"date_published": "2024-11-17T18:46:48-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/17/delimma-of-the.html"
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/17/since-everyone-has.html",
+				
+				"content_html": "<p>Since everyone has a hot take on Bluesky vs Threads vs Mastodon vs Xitter and everyone else, it&rsquo;s time for me to reheat my long ass post I made about this 10 months ago:</p>\n<p>💁🏾‍♂️ <a href=\"https://starrwulfe.xyz/2024/02/18/on-the-subject.html\">On the subject of Connecting Federated Social Media Networks</a></p>\n<p>Again, 何ぜ両方もう出来ないの？</p>\n",
+				"content_text": "Since everyone has a hot take on Bluesky vs Threads vs Mastodon vs Xitter and everyone else, it's time for me to reheat my long ass post I made about this 10 months ago: \n\n💁🏾‍♂️ [On the subject of Connecting Federated Social Media Networks](https://starrwulfe.xyz/2024/02/18/on-the-subject.html)\n\nAgain, 何ぜ両方もう出来ないの？\n",
+				"date_published": "2024-11-17T14:59:15-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/17/since-everyone-has.html",
+				"tags": ["📝 notes","🔗 links","note"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/17/microblogging-tool-of.html",
+				
+				"content_html": "<p>Microblogging tool of the moment: <a href=\"https://public.me\">Public.me</a>, a tool the lets you do microblogging with just iMessage. From the same guy that also made a <a href=\"https://http://montaigne.io\">tool to make small websites out of notes.app</a>.</p>\n<p>Follow me for examples here:\n<a href=\"http://Starrwulfe.public.me\">🌟 starrwulfe.public.me</a>\n<a href=\"http://Starrwulfe.montaigne.io\">🐺 starrwulfe.montaigne.io</a></p>\n<p>Now… how can I tie this back to my <a href=\"http://Starrwulfe.xyz\">main blog</a> and <a href=\"http://abc.Starrwulfe.xyz\">microblog</a>…? 🤔</p>\n<p>cc: <a href=\"https://micro.blog/manton\">@manton</a> <a href=\"https://micro.blog/darnell@one.darnell.one\">@darnell@one.darnell.one</a> who might be interested in this</p>\n",
+				"content_text": "Microblogging tool of the moment: [Public.me](https://public.me), a tool the lets you do microblogging with just iMessage. From the same guy that also made a [tool to make small websites out of notes.app](https://http://montaigne.io).\n\nFollow me for examples here:\n[🌟 starrwulfe.public.me](http://Starrwulfe.public.me)\n[🐺 starrwulfe.montaigne.io](http://Starrwulfe.montaigne.io)\n\nNow… how can I tie this back to my [main blog](http://Starrwulfe.xyz) and [microblog](http://abc.Starrwulfe.xyz)…? 🤔 \n\ncc: [@manton](https://micro.blog/manton) [@darnell@one.darnell.one](https://micro.blog/darnell@one.darnell.one) who might be interested in this\n",
+				"date_published": "2024-11-17T12:40:42-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/17/microblogging-tool-of.html"
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/11/17/dog-without-context.html",
+				
+				"content_html": "<p>Dog without context.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dog without context. \n\n\n<img src=\"https://cdn.uploads.micro.blog/133960/2024/c9ec8c3884.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-17T07:42:07-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/11/17/dog-without-context.html",
+				"tags": ["📝 notes","📸 photos"]
+			},
+			{
 				"id": "http://starrwulfe.micro.blog/2024/11/15/great-read-from.html",
 				
 				"content_html": "<p>Great read from <a href=\"https://micro.blog/benwerd?remote_follow=1\">Ben Werdmuller</a>:\nBluesky, the Fediverse, and the future of [open] social media&hellip;\n<a href=\"https://werd.io/2024/bluesky-the-fediverse-and-the-future-of-social-media\">werd.io/2024/blue&hellip;</a></p>\n",
@@ -19,7 +80,7 @@
 				"id": "http://starrwulfe.micro.blog/2024/11/12/currently-reading-behind.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781606354773\">Behind the White House Curtain: A Senior Journalist&rsquo;s Story of Covering the President&ndash;And Why It Matters</a> by Steven L. Herman 📚</p>\n<p>Thanks again <a href=\"http://newsguy.bsky.social\">@newsguy.bsky.social</a> / <a href=\"https://micro.blog/w7voa@journa.host\">@w7voa@journa.host</a> for <a href=\"https://journa.host/@w7voa/113443533601396899\">signing my copy!</a></p>\n<p>Was supposed to be a memoir, is now a guide to what may come. 🙄</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently reading: [Behind the White House Curtain: A Senior Journalist's Story of Covering the President--And Why It Matters](https://micro.blog/books/9781606354773) by Steven L. Herman 📚\r\n\r\nThanks again [@newsguy.bsky.social](http://newsguy.bsky.social) / [@w7voa@journa.host](https://micro.blog/w7voa@journa.host) for [signing my copy!](https://journa.host/@w7voa/113443533601396899)\r\n\r\nWas supposed to be a memoir, is now a guide to what may come. 🙄\r\n\n\n<img src=\"uploads/2024/starrwulfe-and-w7voa-in-lville.png\" width=\"600\" height=\"524\" alt=\"Two men are standing together (J L Gatewood & Steve Herman) in a room, with one holding a book titled &quot;Behind the White House Curtain&quot; by Stephen L. Herman (the guy on the right).\">\n",
+				"content_text": "Currently reading: [Behind the White House Curtain: A Senior Journalist's Story of Covering the President--And Why It Matters](https://micro.blog/books/9781606354773) by Steven L. Herman 📚\r\n\r\nThanks again [@newsguy.bsky.social](http://newsguy.bsky.social) / [@w7voa@journa.host](https://micro.blog/w7voa@journa.host) for [signing my copy!](https://journa.host/@w7voa/113443533601396899)\r\n\r\nWas supposed to be a memoir, is now a guide to what may come. 🙄\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/133960/2024/starrwulfe-and-w7voa-in-lville.png\" width=\"600\" height=\"524\" alt=\"Two men are standing together (J L Gatewood & Steve Herman) in a room, with one holding a book titled &quot;Behind the White House Curtain&quot; by Stephen L. Herman (the guy on the right).\">\n",
 				"date_published": "2024-11-12T16:27:56-05:00",
 				"url": "https://abc.starrwulfe.xyz/2024/11/12/currently-reading-behind.html",
 				"tags": ["📸 photos"]
@@ -35,8 +96,8 @@
 			{
 				"id": "http://starrwulfe.micro.blog/2024/11/08/time-for-another.html",
 				
-				"content_html": "<p>Time for another random #Japan #train post…</p>\n<p><img src=\"https://abc.starrwulfe.xyz/uploads/2024/e1d3f884-82ef-4d9e-b67e-4803a6e5b539.jpg\" alt=\"A train travels on elevated tracks under a partially cloudy sky with power lines and buildings in the distance.\"></p>\n<p>A Hashimoto bound Toei Shinjuku Line subway train through-running on the Keio Tama Line somewhere near Chofu, Tokyo. 🚃🚃🚃</p>\n",
-				"content_text": "Time for another random #Japan #train post… \n\n![A train travels on elevated tracks under a partially cloudy sky with power lines and buildings in the distance.](https://abc.starrwulfe.xyz/uploads/2024/e1d3f884-82ef-4d9e-b67e-4803a6e5b539.jpg)\n\nA Hashimoto bound Toei Shinjuku Line subway train through-running on the Keio Tama Line somewhere near Chofu, Tokyo. 🚃🚃🚃\n",
+				"content_html": "<p>Time for another random #Japan #train post…</p>\n<p><img src=\"https://cdn.uploads.micro.blog/133960/2024/e1d3f884-82ef-4d9e-b67e-4803a6e5b539.jpg\" alt=\"A train travels on elevated tracks under a partially cloudy sky with power lines and buildings in the distance.\"></p>\n<p>A Hashimoto bound Toei Shinjuku Line subway train through-running on the Keio Tama Line somewhere near Chofu, Tokyo. 🚃🚃🚃</p>\n",
+				"content_text": "Time for another random #Japan #train post… \n\n![A train travels on elevated tracks under a partially cloudy sky with power lines and buildings in the distance.](https://cdn.uploads.micro.blog/133960/2024/e1d3f884-82ef-4d9e-b67e-4803a6e5b539.jpg)\n\nA Hashimoto bound Toei Shinjuku Line subway train through-running on the Keio Tama Line somewhere near Chofu, Tokyo. 🚃🚃🚃\n",
 				"date_published": "2024-11-08T23:02:46-05:00",
 				"url": "https://abc.starrwulfe.xyz/2024/11/08/time-for-another.html"
 			},
