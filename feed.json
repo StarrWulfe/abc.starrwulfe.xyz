@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://starrwulfe.micro.blog/2024/12/25/the-christmas-gifts-from-my.html",
+				
+				"content_html": "<p><img src=\"https://starrwulfe.xyz/uploads/2024/eb228f87-1363-410a-8aea-44f9d004b809.jpg\" alt=\"A variety of gift items including a mug, a hoodie package, a book titled &ldquo;Dad Jokes,&rdquo; a water flosser, beef jerky, and a mobile phone stand are arranged on a table..\"></p>\n<p>The Christmas 2024 gifts from my wife and kids.\n🎄 💁‍♀️👧🧒👧</p>\n",
+				"content_text": "![A variety of gift items including a mug, a hoodie package, a book titled \"Dad Jokes,\" a water flosser, beef jerky, and a mobile phone stand are arranged on a table..](https://starrwulfe.xyz/uploads/2024/eb228f87-1363-410a-8aea-44f9d004b809.jpg)\n\n\nThe Christmas 2024 gifts from my wife and kids. \n🎄 💁‍♀️👧🧒👧\n",
+				"date_published": "2024-12-25T10:11:50-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/12/25/the-christmas-gifts-from-my.html",
+				"tags": ["💖 liked","⌚ currently"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2024/12/22/winter-shot-of-the-enoden.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Winter shot of the Enoden crossing out of Kamakura station in Kanagawa, Japan back on 3 February 2012.</p>\n<p>#tokyotrainnerd #trainporn #japan #shonan</p>\n",
+				"content_text": "<img src=\"uploads/2024/dbc862fda3.jpg\" alt=\"A Japanese street scene features a train crossing the road, several vehicles waiting, and pedestrians walking nearby.\">\r\n\r\nWinter shot of the Enoden crossing out of Kamakura station in Kanagawa, Japan back on 3 February 2012. \r\n\r\n#tokyotrainnerd #trainporn #japan #shonan\n",
+				"date_published": "2024-12-22T23:25:17-05:00",
+				"url": "https://abc.starrwulfe.xyz/2024/12/22/winter-shot-of-the-enoden.html",
+				"tags": ["📸 photos"]
+			},
+			{
 				"id": "http://starrwulfe.micro.blog/2024/12/18/america-is-like.html",
 				
 				"content_html": "<p>“America is like a smoke &amp; vape shop with all the bright ass LED lit bongs, some incense, and artisanal kettle fried potato chips for sale. Interesting at first but you wonder how that place is still in business”</p>\n<p>— me discussing how we probably look to other countries with my mom just now.</p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://starrwulfe.micro.blog/2024/12/05/bitcoin-along-with.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Bitcoin along with other cryptocurrencies are on the move since the incoming administration is seen as friendly to legitimizing and codifying them as investments and currency exchanges.</p>\n<p>If you haven’t already, it’s a good idea to learn how to leverage crypto in your portfolio.</p>\n",
-				"content_text": "<img src=\"uploads/2024/54aca89c39.png\" alt=\"\">\r\n\r\nBitcoin along with other cryptocurrencies are on the move since the incoming administration is seen as friendly to legitimizing and codifying them as investments and currency exchanges. \r\n\r\nIf you haven’t already, it’s a good idea to learn how to leverage crypto in your portfolio. \n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/133960/2024/54aca89c39.png\" alt=\"\">\r\n\r\nBitcoin along with other cryptocurrencies are on the move since the incoming administration is seen as friendly to legitimizing and codifying them as investments and currency exchanges. \r\n\r\nIf you haven’t already, it’s a good idea to learn how to leverage crypto in your portfolio. \n",
 				"date_published": "2024-12-05T12:15:03-05:00",
 				"url": "https://abc.starrwulfe.xyz/2024/12/05/bitcoin-along-with.html",
 				"tags": ["📸 photos"]
@@ -1611,6 +1629,59 @@
 				"content_text": "### Random Observations from the Fediverse No.1:\n\n...There are a lot (and I cannot stress this enough,) a **lot** of really small fediverse instances and they are showing off all the numerous Top Level Domain Names that are out there that I could never think of that many uses for.\n\n...Theres instances that end in `.rodeo`, `.boo`, `.fail`, `.hair`, `.ninja`...\n\nAnd my favorite: `.ooo` as in 🫢\n\n",
 				"date_published": "2023-12-17T12:15:11-05:00",
 				"url": "https://abc.starrwulfe.xyz/2023/12/17/random-observations-from.html",
+				"tags": ["📝 notes"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/15/so-im-using.html",
+				
+				"content_html": "<p>So I&rsquo;m using <code>abc</code> as a hostname because of course the TLD is <code>.xyz</code> so of course, but also I want to make this the &ldquo;sidecar&rdquo; to the main show that goes on over at starrwulfe.xyz.  With that in mind, should I be making categories for &ldquo;kinds&rdquo; that you see in some other blogs?</p>\n<ul>\n<li>\n<p>namely the <a href=\"https://starrwulfe.xyz/kind/read/\">Reads</a>, <a href=\"https://starrwulfe.xyz/kind/video/\">Watches</a> and <a href=\"https://starrwulfe.xyz/kind/audio/\">Listens</a> activities for stuff I&rsquo;m doing&hellip; I think I need to rework how that was done over there and make it more succinct.</p>\n</li>\n<li>\n<p>Then there&rsquo;s the <a href=\"https://starrwulfe.xyz/kind/notes\">notes</a> <a href=\"https://starrwulfe.xyz/notes\">sections</a>. Which acts like a catch-all for random short posts with no title&hellip; Conversations into the either.</p>\n</li>\n<li>\n<p>Also the <a href=\"https://starrwulfe.xyz/likes/\">Like</a>, <a href=\"https://starrwulfe.xyz/kind/bookmark/\">Bookmarks</a>, and <a href=\"https://starrwulfe.xyz/kind/reply/\">Replies</a> <a href=\"https://starrwulfe.xyz/replied\">sections</a> that&rsquo;s especially part of the efforts of POSSEing up all the comments and content from around the internet back here.</p>\n</li>\n</ul>\n<p>Also bear in mind the communications features are in both places for first-party integration into the Fediverse; the main one at <code>@starrwulfe@starruwulfe.xyz</code> and running ActivityPub for Wordpress and this one here <code>@starrwulfe@abc.starruwulfe.xyz</code> on micro.blog.  So I&rsquo;ve got double vision.</p>\n<blockquote>\n<p>“The road of excess leads to the palace of wisdom.”\n― William Blake, The Marriage of Heaven and Hell</p>\n</blockquote>\n<p>Should I bottle all that up and bring it over here while leaving the &ldquo;main blog&rdquo; to host articles, long form content and the like? (Certainly, I need to give it a better coat of paint in the form of themeing; I never got around to actually doing that part as I want to work on the plumbing first&hellip;</p>\n<p>&hellip;Dammit, I don&rsquo;t even have my categories set for where <em>this</em> post is going to wind up! 🤦🏾‍♂️</p>\n",
+				"content_text": "So I'm using `abc` as a hostname because of course the TLD is `.xyz` so of course, but also I want to make this the \"sidecar\" to the main show that goes on over at starrwulfe.xyz.  With that in mind, should I be making categories for \"kinds\" that you see in some other blogs? \r\n\r\n- namely the [Reads](https://starrwulfe.xyz/kind/read/), [Watches](https://starrwulfe.xyz/kind/video/) and [Listens](https://starrwulfe.xyz/kind/audio/) activities for stuff I'm doing... I think I need to rework how that was done over there and make it more succinct.  \r\n\r\n- Then there's the [notes](https://starrwulfe.xyz/kind/notes) [sections](https://starrwulfe.xyz/notes). Which acts like a catch-all for random short posts with no title... Conversations into the either.  \r\n\r\n- Also the [Like](https://starrwulfe.xyz/likes/), [Bookmarks](https://starrwulfe.xyz/kind/bookmark/), and [Replies](https://starrwulfe.xyz/kind/reply/) [sections](https://starrwulfe.xyz/replied) that's especially part of the efforts of POSSEing up all the comments and content from around the internet back here. \r\n\r\nAlso bear in mind the communications features are in both places for first-party integration into the Fediverse; the main one at `@starrwulfe@starruwulfe.xyz` and running ActivityPub for Wordpress and this one here `@starrwulfe@abc.starruwulfe.xyz` on micro.blog.  So I've got double vision. \r\n\r\n> “The road of excess leads to the palace of wisdom.”\r\n> ― William Blake, The Marriage of Heaven and Hell\r\n\r\nShould I bottle all that up and bring it over here while leaving the \"main blog\" to host articles, long form content and the like? (Certainly, I need to give it a better coat of paint in the form of themeing; I never got around to actually doing that part as I want to work on the plumbing first...\r\n\r\n...Dammit, I don't even have my categories set for where *this* post is going to wind up! 🤦🏾‍♂️\n",
+				"date_published": "2023-12-15T19:20:53-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/15/so-im-using.html"
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/15/oh-this-is.html",
+				
+				"content_html": "<p>Oh this is nice&ndash; and answers a question I had about how to go about doing &ldquo;Easter Egg Articles&rdquo; that would only get out to the subscribers without needing to collect and house email addresses and other personal info.</p>\n<p><em>in reply to <a href=\"https://danq.me/2023/12/14/the-underground-blog/\">The Underground Blog, only on RSS!</a></em></p>\n<p><em>also s/o to @pfefferle@mastodon.social for the info!</em></p>\n",
+				"content_text": "Oh this is nice-- and answers a question I had about how to go about doing \"Easter Egg Articles\" that would only get out to the subscribers without needing to collect and house email addresses and other personal info.\n\n_in reply to [The Underground Blog, only on RSS!](https://danq.me/2023/12/14/the-underground-blog/)_\n\n_also s/o to @pfefferle@mastodon.social for the info!_\n",
+				"date_published": "2023-12-15T14:29:26-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/15/oh-this-is.html",
+				"tags": ["📝 notes"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/14/well-webfinger-to.html",
+				
+				"content_html": "<p>Well webfinger to certain threads.net accounts does indeed work.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Well webfinger to certain threads.net accounts does indeed work. \n\n<img src=\"https://cdn.uploads.micro.blog/133960/2023/b601f3defc.jpg\" width=\"600\" height=\"577\" alt=\"\">\n",
+				"date_published": "2023-12-14T02:56:16-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/14/well-webfinger-to.html",
+				"tags": ["📝 notes","📸 photos"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/11/good-nite-fediverse.html",
+				
+				"content_html": "<p>Good nite #fediverse and #indieweb peeps, see ya in the morning! 😴</p>\n",
+				"content_text": "Good nite #fediverse and #indieweb peeps, see ya in the morning! 😴 \n",
+				"date_published": "2023-12-11T01:25:40-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/11/good-nite-fediverse.html",
+				"tags": ["📝 notes"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/10/the-best-brisket.html",
+				
+				"content_html": "<p>The best brisket I’ve probably ever made in a Crock Pot was had. #fatnessfirst</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The best brisket I’ve probably ever made in a Crock Pot was had. #fatnessfirst\n\n<img src=\"https://cdn.uploads.micro.blog/133960/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/133960/2023/efe59f7b54.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-10T20:38:52-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/10/the-best-brisket.html",
+				"tags": ["📸 photos"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2023/12/10/testing-again-sorry.html",
+				
+				"content_html": "<p>👷🏾‍♂️ #testing again, sorry! 🚧\nOK, lets see if the fediverse is ready for this&hellip;.</p>\n<ul>\n<li>changed some CSS stuff around as I get the theme ready.</li>\n<li>Also I could try tagging my main self over at <a href=\"https://micro.blog/starrwulfe@starrwulfe.xyz\">@starrwulfe@starrwulfe.xyz</a> too.</li>\n<li>Maybe I&rsquo;d better <a href=\"https://micro.blog/starrwulfe@social.vivaldi.net\">@starrwulfe@social.vivaldi.net</a> too.  (<em>none of this seems to be working in the editor, but we&rsquo;ll see</em>)</li>\n</ul>\n",
+				"content_text": "👷🏾‍♂️ #testing again, sorry! 🚧\nOK, lets see if the fediverse is ready for this.... \n\n- changed some CSS stuff around as I get the theme ready.\n- Also I could try tagging my main self over at [@starrwulfe@starrwulfe.xyz](https://micro.blog/starrwulfe@starrwulfe.xyz) too.\n- Maybe I'd better [@starrwulfe@social.vivaldi.net](https://micro.blog/starrwulfe@social.vivaldi.net) too.  (*none of this seems to be working in the editor, but we'll see*)\n\n",
+				"date_published": "2023-12-10T17:13:20-05:00",
+				"url": "https://abc.starrwulfe.xyz/2023/12/10/testing-again-sorry.html",
 				"tags": ["📝 notes"]
 			}
 	]
