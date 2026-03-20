@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://starrwulfe.micro.blog/2026/03/20/these-could-be-the-good.html",
+				
+				"content_html": "<p>These could be &ldquo;the good ol' days&rdquo; we keep in our memories as we are descending into this nonsense&hellip;</p>\n",
+				"content_text": "These could be \"the good ol' days\" we keep in our memories as we are descending into this nonsense...\n",
+				"date_published": "2026-03-20T13:23:17-04:00",
+				"url": "https://abc.starrwulfe.xyz/2026/03/20/these-could-be-the-good.html",
+				"tags": ["? notes","? currently"]
+			},
+			{
 				"id": "http://starrwulfe.micro.blog/2026/03/17/he-knows-hes-too-damn.html",
 				
 				"content_html": "<p>He knows he’s too damn big for that chair but he still manages to sleep there somehow. #doggo</p>\n<!-- raw HTML omitted -->\n",
