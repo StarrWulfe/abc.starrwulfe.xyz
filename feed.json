@@ -7,12 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://starrwulfe.micro.blog/2026/03/29/im-convinced-the-reason-i.html",
+				
+				"content_html": "<p>I&rsquo;m convinced the reason I love reading is because I got to live a bus ride away from the St Louis Public Library Central Branch.  The hum of the pneumatic tubes and pattering of books dropping down the chutes while reading and studying was so peaceful.</p>\n<p><a href=\"https://www.youtube.com/watch?v=vjl885oEzXk\">www.youtube.com/watch</a></p>\n",
+				"content_text": "I'm convinced the reason I love reading is because I got to live a bus ride away from the St Louis Public Library Central Branch.  The hum of the pneumatic tubes and pattering of books dropping down the chutes while reading and studying was so peaceful.\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=vjl885oEzXk)\n",
+				"date_published": "2026-03-29T12:37:45-04:00",
+				"url": "https://abc.starrwulfe.xyz/2026/03/29/im-convinced-the-reason-i.html",
+				"tags": ["? notes"]
+			},
+			{
+				"id": "http://starrwulfe.micro.blog/2026/03/22/read-japans-team-mirai-is.html",
+				
+				"content_html": "<p>📑Read: <a href=\"https://www.techpolicy.press/japans-team-mirai-uses-tech-to-bolster-democracy-not-undermine-it/\">Japan’s Team Mirai Is Rewriting What Tech in Politics Can Be</a></p>\n<p>A political party using tech to strengthen democracy?\nTeam Mirai is doing exactly that.</p>\n<p>🇯🇵 They built AI tools that help voters understand issues, challenge assumptions, and get involved.\n📈 They won 11 seats after garnering ~4M votes; massive for a new party.\n🤖 Their apps drive 100k+ volunteer actions per day.\n🧠 Policy ideas are crowdsourced from tens of thousands of citizen questions.\n🔍 They open‑sourced tools for legislative transparency that even the ruling LDP party is adopting.</p>\n<p>🤔Could it work elsewhere? Or are we doomed to be serfs of a techautocracy?</p>\n",
+				"content_text": "📑Read: [Japan’s Team Mirai Is Rewriting What Tech in Politics Can Be](https://www.techpolicy.press/japans-team-mirai-uses-tech-to-bolster-democracy-not-undermine-it/)\n\nA political party using tech to strengthen democracy?\nTeam Mirai is doing exactly that.\n\n🇯🇵 They built AI tools that help voters understand issues, challenge assumptions, and get involved.\n📈 They won 11 seats after garnering ~4M votes; massive for a new party.\n🤖 Their apps drive 100k+ volunteer actions per day.\n🧠 Policy ideas are crowdsourced from tens of thousands of citizen questions.\n🔍 They open‑sourced tools for legislative transparency that even the ruling LDP party is adopting.\n\n🤔Could it work elsewhere? Or are we doomed to be serfs of a techautocracy? \n",
+				"date_published": "2026-03-22T12:27:38-04:00",
+				"url": "https://abc.starrwulfe.xyz/2026/03/22/read-japans-team-mirai-is.html",
+				"tags": ["? read"]
+			},
+			{
 				"id": "http://starrwulfe.micro.blog/2026/03/22/also-mind-you-theres-a.html",
 				
-				"content_html": "<p>Also mind you, there&rsquo;s a high degree of regionalism too&ndash; $2000 rent in LA or NYC is a lucky find; in Macon, GA this would be a luxury apartment. \nThe great equalizer is proving to be utility rates now. In the cheaper areas, they aren&rsquo;t as regulated and fluctuate wildly; in the metro areas, the dips and humps are smoothed out by subsidies.</p>\n",
-				"content_text": "Also mind you, there's a high degree of regionalism too-- $2000 rent in LA or NYC is a lucky find; in Macon, GA this would be a luxury apartment. \r\nThe great equalizer is proving to be utility rates now. In the cheaper areas, they aren't as regulated and fluctuate wildly; in the metro areas, the dips and humps are smoothed out by subsidies. \n",
+				"content_html": "<p><a href=\"https://crowdersoup.com/blog/post/photo-1773681880/\">↩️reply: https://crowdersoup.com/blog/post/photo-1773681880/</a></p>\n<p>Also mind you, there&rsquo;s a high degree of regionalism too&ndash; $2000 rent in LA or NYC is a lucky find; in Macon, GA this would be a luxury apartment.\nThe great equalizer is proving to be utility rates now. In the cheaper areas, they aren&rsquo;t as regulated and fluctuate wildly; in the metro areas, the dips and humps are smoothed out by subsidies.</p>\n",
+				"content_text": "[↩️reply: https://crowdersoup.com/blog/post/photo-1773681880/](https://crowdersoup.com/blog/post/photo-1773681880/)\n\nAlso mind you, there's a high degree of regionalism too-- $2000 rent in LA or NYC is a lucky find; in Macon, GA this would be a luxury apartment. \nThe great equalizer is proving to be utility rates now. In the cheaper areas, they aren't as regulated and fluctuate wildly; in the metro areas, the dips and humps are smoothed out by subsidies. \n",
 				"date_published": "2026-03-22T07:56:42-04:00",
-				"url": "https://abc.starrwulfe.xyz/2026/03/22/also-mind-you-theres-a.html"
+				"url": "https://abc.starrwulfe.xyz/2026/03/22/also-mind-you-theres-a.html",
+				"tags": ["? replied"]
 			},
 			{
 				"id": "http://starrwulfe.micro.blog/2026/03/21/my-damnneardaily-i-tried-to.html",
@@ -36,7 +55,7 @@
 				"id": "http://starrwulfe.micro.blog/2026/03/17/he-knows-hes-too-damn.html",
 				
 				"content_html": "<p>He knows he’s too damn big for that chair but he still manages to sleep there somehow. #doggo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "He knows he’s too damn big for that chair but he still manages to sleep there somehow. #doggo  \n\n\n\n<img src=\"uploads/2026/7ccd2fc88b.jpg\" width=\"337\" height=\"600\" alt=\"A black dog is resting on an office chair, looking relaxed and comfortable even though the chair is one size smaller than aforementioned doggo.\">\n",
+				"content_text": "He knows he’s too damn big for that chair but he still manages to sleep there somehow. #doggo  \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/133960/2026/7ccd2fc88b.jpg\" width=\"337\" height=\"600\" alt=\"A black dog is resting on an office chair, looking relaxed and comfortable even though the chair is one size smaller than aforementioned doggo.\">\n",
 				"date_published": "2026-03-17T16:45:39-04:00",
 				"url": "https://abc.starrwulfe.xyz/2026/03/17/he-knows-hes-too-damn.html",
 				"tags": ["? photos"]
@@ -45,7 +64,7 @@
 				"id": "http://starrwulfe.micro.blog/2025/12/18/q-how-does-it-feel.html",
 				
 				"content_html": "<p>Q: “How does it feel to live in America after being in Japan for so long?”</p>\n<p>A:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Q: “How does it feel to live in America after being in Japan for so long?”\n\nA: \n\n<img src=\"uploads/2025/d0cfbc5d25.png\" width=\"600\" height=\"597\" alt=\"\">\n",
+				"content_text": "Q: “How does it feel to live in America after being in Japan for so long?”\n\nA: \n\n<img src=\"https://cdn.uploads.micro.blog/133960/2025/d0cfbc5d25.png\" width=\"600\" height=\"597\" alt=\"\">\n",
 				"date_published": "2025-12-18T17:09:06-04:00",
 				"url": "https://abc.starrwulfe.xyz/2025/12/18/q-how-does-it-feel.html",
 				"tags": ["? photos","? reposts","? currently"]
